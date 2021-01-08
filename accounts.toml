@@ -1,0 +1,27 @@
+[[acc]]
+session_id = "abc"
+class_codes = ["DTE201202001013"]
+student_id = "24211116969"
+curriculum_id = "611"
+captcha = "6969"
+
+[[acc]]
+session_id = "def"
+class_codes = ["DTE201202001014"]
+student_id = "24211116969"
+curriculum_id = "611"
+captcha = "9696"
+
+[[acc]]
+session_id = "ghi"
+class_codes = ["DTE201202001014"]
+student_id = "24211116969"
+curriculum_id = "611"
+captcha = "9696"
+
+[[acc]]
+session_id = "jkl"
+class_codes = ["DTE201202001014"]
+student_id = "24211116969"
+curriculum_id = "611"
+captcha = "9696"
