@@ -4,5 +4,5 @@
 
 ## To-do
 * Error handling
-* Improving async-await tasks with workers, mspc channel, ...
+* Improving async-await tasks with workers, mpsc channel, ...
 * Sleep
